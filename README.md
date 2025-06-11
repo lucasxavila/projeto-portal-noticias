@@ -16,10 +16,10 @@ inspirada em portais de mídia digital, com ênfase em usabilidade, organizaçã
 - Layout responsivo e estruturado com grid.
 
 ## Tecnologias Utilizadas
-HTML5
-CSS3 (com grid layout)
-Google Fonts (Archivo)
-Estrutura responsiva
+- HTML5
+- CSS3 (com grid layout)
+- Google Fonts (Archivo)
+- Estrutura responsiva
 
 ## Estrutura de Pastas
   ```bash
