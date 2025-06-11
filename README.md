@@ -32,7 +32,7 @@ O **Portal de Notícias TechNews** é um projeto front-end desenvolvido com HTML
   └── index.html       # Página principal
   ```
 
-## Como Visualizar
+## Como Executar
 
 1. Clone este repositório:
   ```bash
