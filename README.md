@@ -6,7 +6,7 @@ Este repositório contém uma página web responsiva que simula a interface de u
 O Portal de Notícias TechNews é um projeto front-end desenvolvido com HTML e CSS, focado na criação de uma experiência visual atraente para leitores interessados em inovação e tecnologia. A estrutura do site é 
 inspirada em portais de mídia digital, com ênfase em usabilidade, organização da informação e apelo visual.
 
-A interface inclui:
+### A interface inclui:
 
 - Cabeçalho com barra de navegação principal e categorias de destaque;
 - Sessão de notícias em destaque com imagens ilustrativas e categorias;
