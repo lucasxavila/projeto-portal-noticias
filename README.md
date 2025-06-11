@@ -15,6 +15,7 @@ O **Portal de Notícias TechNews** é um projeto front-end desenvolvido com HTML
 - Layout responsivo e estruturado com grid.
 
 ## Tecnologias Utilizadas
+
 - HTML5
 - CSS3 (com grid layout)
 - Google Fonts (Archivo)
