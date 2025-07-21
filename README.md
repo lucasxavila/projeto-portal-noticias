@@ -1,5 +1,9 @@
 # Projeto - Portal de Notícias TechNews
 
+<p align="center">
+<img width="1589" height="984" alt="Captura de tela 2025-07-21 181733" src="https://github.com/user-attachments/assets/95fc623d-1788-4ea1-bda7-d6f4493f4b43" />
+</p>
+
 Este repositório contém uma página web responsiva que simula a interface de um portal de notícias de tecnologia, o TechNews, apresentando artigos, destaques e seções temáticas de forma moderna e intuitiva.
 
 ## Descrição
